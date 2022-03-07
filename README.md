@@ -21,6 +21,8 @@ Click [here](https://sofiazaidman.com/) for the full story.
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=eaff47) 
 
+---
+
 <!--
 **szaidman22/szaidman22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![Uploading Screen Shot 2022-01-17 at 12.39.58 PM.png…]()
 
