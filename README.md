@@ -6,7 +6,7 @@
 
 ##### <em>...Tantalized?</em> 👁
 
-Click [here](https://sofiazaidman.com/) for the full story.
+Click [here](https://sofiazaidman.com/)
 <br>
 <br>
 <br>
