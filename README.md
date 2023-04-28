@@ -4,7 +4,7 @@
 ### Welcome
 #### I'm currently working on finishing up my Master's degree! 
 
-Click [here](https://sofiazaidman.com/) for more details on my projects
+Click [here](https://sofiazaidman.com/) for my blog.
 <br>
 <br>
 <br>
