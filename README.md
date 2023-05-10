@@ -1,5 +1,5 @@
 
-<img width="210" img align="left" alt="Screen Shot 2022-01-17 at 12 39 58 PM" src="https://user-images.githubusercontent.com/61389709/156692115-55ba27bc-cd00-4bb9-9593-f6615d1fcac7.png">
+<img width="210" img align="left" alt="Screen Shot 2022-01-17 at 12 39 58 PM" src="https://github.com/szaidman22/szaidman22/assets/61389709/d159f5e7-0b2d-43ad-93ea-e47e386928fb">
 
 ### Welcome
 #### I'm currently working on finishing up my Master's degree! 
